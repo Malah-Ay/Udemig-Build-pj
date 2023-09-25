@@ -57,6 +57,6 @@ In this section customers can left a contact and their message. IN text area the
 
 <h1>Project Gif</h1>
 
-<img src="Udemig-courses.gif" alt="">
+<img src="Udemig Build.gif" alt="">
 
 <!--  -->
