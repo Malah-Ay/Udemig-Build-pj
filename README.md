@@ -42,18 +42,6 @@ In this section customers can left a contact and their message. IN text area the
  boostrap icon:   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
     <link rel="stylesheet" href="style.css" />
 
-   googlemap:  <script>
-        function myMap() {
-            var mapProp = {
-                center: new google.maps.LatLng(43.2668557, 19.9890659),
-                zoom: 11,
-            };
-            var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
-        }
-    </script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=Your_Key&callback=myMap" defer></script>
-
 
 <h1>Project Gif</h1>
 
