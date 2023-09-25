@@ -26,11 +26,11 @@ In this section customers can see example buildings to which company builded bef
 In this section customers can left a contact and their message. IN text area they can write their ideas and which type or services they want
 <h1>Used technologies</h1>
 
--HTML
--HTML5
--CSS
--CSS3
--Bootstrap
+<p>-HTML</p>
+<p>-HTML5</p>
+<p>-CSS</p>
+<p>-CSS3</p>
+<p>-Bootstrap</p>
 
 <h1>Libraries</h1>
 
